@@ -1,0 +1,24 @@
+{
+  "name": "autosuggestbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp/issues"
+  },
+  "homepage": "https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
