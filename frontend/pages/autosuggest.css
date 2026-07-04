@@ -11,4 +11,35 @@
 .search-section{
     text-align: center;
 }
+.c1{
+    color:#4f46e5;  
+}
+
+.search-box{
+    display: flex;
+    align-items: center;
+    width: 350px;
+    margin: 20px auto 5px auto;
+    padding: 10px 15px;
+    border: 2px solid #d1d5db;
+    border-radius: 30px;
+    background-color: white;
+}
+.search-input{
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 16px;
+    background: transparent;
+}
+#suggestion-box{
+    border:1px solid black;
+    padding:10px 10px 15px 15px;
+    width:40%;
+    margin:auto;
+    
+
+}
+
+
 
