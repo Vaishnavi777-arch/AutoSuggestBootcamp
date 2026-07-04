@@ -19,7 +19,7 @@
     display: flex;
     align-items: center;
     width: 350px;
-    margin: 20px auto 5px auto;
+    margin: 20px auto 0px auto;
     padding: 10px 15px;
     border: 2px solid #d1d5db;
     border-radius: 30px;
@@ -33,12 +33,15 @@
     background: transparent;
 }
 #suggestion-box{
-    border:1px solid black;
+    /*border:1px solid black; */
     padding:10px 10px 15px 15px;
     width:40%;
     margin:auto;
-    
-
+}
+#suggestion-item{
+    border:1px solid black;
+    padding:10px;
+    border-radius:10px;
 }
 
 
